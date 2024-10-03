@@ -32,26 +32,32 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" title="Python" alt="Python" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="40" height="40" title="Django" alt="Django" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" title="Docker" alt="Docker" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" width="40" height="40" title="Redis" alt="Redis" />&nbsp; 
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" title="MySQL" alt="MySQL" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" title="JavaScript" alt="JavaScript" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="40" height="40" title="JQuery" alt="JQuery" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" title="HTML5" alt="HTML5" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" title="CSS3" alt="CSS3" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" title="Bootstrap" alt="Bootstrap" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" title="Figma" alt="Figma" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40" title="Selenium" alt="Selenium" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40" title="Pycharm" alt="Pycharm" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" title="VS Code" alt="VS Code" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" height="40" title="GNU Bash" alt="GNU Bash" />&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" title="Linux" alt="Linux" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40" title="Jira" alt="Jira" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" width="40" height="40" title="Confluence" alt="Confluence" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" title="Python" alt="Python" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40" height="40" title="Django" alt="Django" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="40" height="40" title="Flask" alt="Flask" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" title="Docker" alt="Docker" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40" height="40" title="RabbitMQ" alt="RabbitMQ" />&nbsp; 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" title="Redis" alt="Redis" />&nbsp; 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" title="MySQL" alt="MySQL" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="40" height="40" title="SQLite" alt="SQLite" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="40" height="40" title="JQuery" alt="JQuery" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" title="HTML5" alt="HTML5" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" title="CSS3" alt="CSS3" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40" title="Bootstrap" alt="Bootstrap" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40" title="Figma" alt="Figma" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width="40" height="40" title="Pycharm" alt="Pycharm" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" title="VS Code" alt="VS Code" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" title="Github" alt="Github" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40" height="40" title="GNU Bash" alt="GNU Bash" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40" title="Linux" alt="Linux" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="40" height="40" title="Jenkins" alt="Jenkins" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="40" height="40" title="Elasticsearch" alt="Elasticsearch" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" width="40" height="40" title="Obsidian" alt="Obsidian" />
+  
   
 </div>
 
@@ -60,7 +66,7 @@
 ### :fire: My Stats :
 <div>
   
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asmodevops&theme=dark&background=000000)](https://git.io/streak-stats) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asmodevops&theme=dark&background=000000)](https://git.io/streak-stats) 
 </div>
 
 <div>
