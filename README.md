@@ -18,12 +18,12 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxmeGpqYjFma2EyM2gxNnYzZmJwbzJ6d3J2cjV0OGlqa3JybnAwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="500" height="300"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ### :man_technologist: About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I work as a Python engineer.
+- :telescope: I work as a Python developer.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/a_che_ngel)
