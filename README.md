@@ -34,11 +34,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" title="Python" alt="Python" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="40" height="40" title="FastAPI" alt="FastAPI" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="40" height="40" title="Django" alt="Django" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="40" height="40" title="Flask" alt="Flask" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" title="Docker" alt="Docker" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" title="Redis" alt="Redis" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40" height="40" title="RabbitMQ" alt="RabbitMQ" />&nbsp; 
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" title="Redis" alt="Redis" />&nbsp; 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" title="MySQL" alt="MySQL" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="40" height="40" title="SQLite" alt="SQLite" />&nbsp;
@@ -53,8 +54,10 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" title="VS Code" alt="VS Code" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" title="Github" alt="Github" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40" height="40" title="GNU Bash" alt="GNU Bash" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Light.svg" width="40" height="40" title="BitBucket-Light" alt="BitBucket-Light" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" width="40" height="40" title="GNU Bash" alt="GNU Bash" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="40" height="40" title="Linux" alt="Linux" />&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Light.svg" width="40" height="40" title="Ubuntu" alt="Ubuntu" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="40" height="40" title="Jenkins" alt="Jenkins" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" width="40" height="40" title="Elasticsearch" alt="Elasticsearch" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" width="40" height="40" title="Obsidian" alt="Obsidian" />
