@@ -24,6 +24,7 @@
 
 ### :man_technologist: About Me :
 **I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.**
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" width="20" height="20" title="Python" alt="Arch" />&nbsp; **I use Arch, btw.**
 - :telescope: **I work as a Python developer.**
 - :seedling: **Exploring Technical Content Writing.**
 - :zap: **In my free time, I solve problems on Codewars and read tech articles.**
@@ -40,18 +41,13 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="40" height="40" title="Docker" alt="Docker" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="40" height="40" title="Redis" alt="Redis" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" width="40" height="40" title="RabbitMQ" alt="RabbitMQ" />&nbsp; 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="40" height="40" title="RabbitMQ" alt="Kafka" />&nbsp; 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" title="MySQL" alt="MySQL" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="40" height="40" title="SQLite" alt="SQLite" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" title="JavaScript" alt="JavaScript" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="40" height="40" title="JQuery" alt="JQuery" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" title="HTML5" alt="HTML5" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" title="CSS3" alt="CSS3" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40" title="Bootstrap" alt="Bootstrap" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" height="40" title="Figma" alt="Figma" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="40" height="40" title="Selenium" alt="Selenium" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width="40" height="40" title="Pycharm" alt="Pycharm" />&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" title="VS Code" alt="VS Code" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" title="Github" alt="Github" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/BitBucket-Light.svg" width="40" height="40" title="BitBucket-Light" alt="BitBucket-Light" />&nbsp;
