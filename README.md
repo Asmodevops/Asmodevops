@@ -24,11 +24,11 @@
 
 ### :man_technologist: About Me :
 **I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.**
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" width="20" height="20" title="Python" alt="Arch" />&nbsp; **I use Arch, btw.**
 - :telescope: **I work as a Python developer.**
 - :seedling: **Exploring Technical Content Writing.**
 - :zap: **In my free time, I solve problems on Codewars and read tech articles.**
 - :mailbox: **How to reach me:** [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/a_che_ngel)
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg" width="20" height="20" title="Python" alt="Arch" />&nbsp; **I use Arch, btw.**
 
 ---
 
@@ -60,18 +60,6 @@
   
   
 </div>
-
----
-
-### :fire: My Stats :
-<div>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asmodevops&theme=dark&background=000000)](https://git.io/streak-stats) 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmodevops&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
 
 
 
